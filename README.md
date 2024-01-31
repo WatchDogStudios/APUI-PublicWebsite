@@ -1,13 +1,9 @@
-# astrolus
+# Aperture UI Website
 
-A page template built with astro and tailwindcss using tailus blocks.
-
-![Tailus astro based theme](./public/astrolus-light.png)
-![Tailus astro based dark theme](./public/astrolus-dark.png)
+This is the Github for Aperture UI's website, built off of the Astrolus template.
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
 
 ```
 /
@@ -42,6 +38,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `npm run astro --help` | Get help using the Astro CLI                       |
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
